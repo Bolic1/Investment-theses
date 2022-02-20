@@ -54,11 +54,19 @@ incurring taxable events on each transaction if they were to manualy execute the
 - Abstracts away the complexity of the underlying derivative strategies with a simplified user experience.
 - Fully automated for the users, automatically rolling over positions at the end of each period, making it easy for users to passively earn.
 
+### Automated Vault Strategies include:
+- Passive strategy to earn yield on a base asset.
+- Wide variety of yield farming opportunities.
+- As new opportunities arise and development continues, strategies will change, enabling depositors to consistently earn the best yields available.
+- Fully automated execution for the user.
 
 
 
 
 
+
+
+*To do 02/21: Market comparison, current team, (would be tokenomics), and conclusion*
 
 
 
