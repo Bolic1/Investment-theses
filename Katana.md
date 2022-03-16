@@ -66,7 +66,7 @@ incurring taxable events on each transaction if they were to manualy execute the
 
 
 
-*To do 02/21: Market comparison, current team, (would be tokenomics), and conclusion*
+*To do in March: Market comparison, current team, (would be tokenomics), and conclusion*
 
 
 
